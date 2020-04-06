@@ -1,0 +1,56 @@
+body {
+    background-color: #2a607c;
+}
+
+header {
+    padding: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 36px;
+    color: #ffffff;
+    text-align: center;
+}
+
+section {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: white;
+    display: inline-block;
+}
+figure {
+    float: bottom;
+}
+
+ul {
+    color: white;
+    list-style-type: none;
+    font-size: 24px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid gray;
+    border-radius: 2px;
+    box-sizing: border-box;
+    margin-top: 2px;
+    margin-bottom: 12px;
+}
+  
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+p {
+    color: black;
+    border: white;
+    border-radius: 1px;
+}
